@@ -47,14 +47,12 @@ Welcome to **G-Shop**, an innovative gaming e-commerce website designed to provi
 
 ---
 
-## **🌟 Demo**
-- **Live Demo**: [G-Shop Demo](#) *(Coming Soon)*  
-- **Screenshots**:  
-  ![Homepage Screenshot](https://i.postimg.cc/cKWNJN55/SS02-homepage.png) 
+- **Screenshots**:
+-  ![Loginpage Screenshot](https://i.postimg.cc/44zdDxDx/SS01-Login-Page.png) 
+  ![Homepage Screenshot](https://i.postimg.cc/wByx0q5H/SS02-homepage.png) 
   ![Product Catalog](https://i.postimg.cc/0yNyKdbz/SS03-homepage-conti.png)  
   ![Admin Panel](https://i.postimg.cc/yY1V2XhL/SS13-Admin-Add-Product.png)  
 
----
 
 
 
