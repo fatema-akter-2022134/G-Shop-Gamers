@@ -53,7 +53,16 @@ Welcome to **G-Shop**, an innovative gaming e-commerce website designed to provi
   ![Product Catalog](https://i.postimg.cc/0yNyKdbz/SS03-homepage-conti.png)  
   ![Admin Panel](https://i.postimg.cc/yY1V2XhL/SS13-Admin-Add-Product.png)  
 
+## **📋 Additional Resources**
 
+### **SRS Report**  
+Download the detailed **Software Requirements Specification (SRS)** document: [SRS Report](https://drive.google.com/file/d/1-rW1FcgvstgBhxnSYp0vDq5buI7IXfQx/view?usp=drive_link)
+
+### **PowerPoint Presentation**  
+View the project overview in this professionally designed **PowerPoint presentation**: [Presentation](https://docs.google.com/presentation/d/1ANs_LiNzkpGQzxZkV27vbuNpGQA1Fl39/edit?usp=sharing&ouid=108586790431842713009&rtpof=true&sd=true)
+
+### **Video Demo**  
+Watch a comprehensive walkthrough of the platform in this **video demo**: [Video Demo](https://drive.google.com/file/d/1MZqzqghSkq_agOy-HtpCfTpLZpil9mMa/view?usp=drive_link)
 
 
 
